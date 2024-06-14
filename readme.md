@@ -1,19 +1,17 @@
-How to use?
+Requirements :
+- [Node.js](https://nodejs.org/en)
 <br>
+After Installing Node.js execute this command:
 - npm install request readline
-- node main.js
+<br>
+<br>
+After Meeting the requirements, run the "start_script.exe"
 
 <br>
-Fiture send Message with JKT48 Jiko:
-Input username: Enter the target username for sending messages.
-Input how many you want to send: Specify the number of messages to be sent.
-Quotes from JKT48 members are randomly selected for each message.
+## Full Breakdown
+1- The "start_script.exe" will generate "inputs.bat" script according to the inputs you'll give <br>
+2- After creating the "inputs.bat", "run_7_alot.bat" will fire up 7 cmds (1cmd/10sec) <br>
+3- Each cmd will execute seperate "main.js" using that Node.js you've downloaded
 <br>
 <br>
-Fiture custom Input message:
-Input username: Enter the target username for sending messages.
-Input message: Input a custom message to be sent.
-Input how many you want to send: Specify the number of messages to be sent.
-<br>
-<br>
-Fiture send Message with template menyala Abangkuh
+Original Repo and "Main.js" Explanation by [rezaniverse](https://github.com/rezaniverse/ngl-spammer)
