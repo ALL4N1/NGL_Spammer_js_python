@@ -1,7 +1,7 @@
 Requirements :
 - [Node.js](https://nodejs.org/en)
 <br>
-After Installing Node.js execute this command:
+After Installing Node.js execute this command:<br>
 - npm install request readline
 <br>
 <br>
